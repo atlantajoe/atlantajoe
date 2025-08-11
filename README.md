@@ -7,8 +7,9 @@ I'm a writer and web developer-in-training. I'm currently exploring
 - 🎸 Gen X culture, music, and tech history
 
 ## My links
-- 📚 Check out my writing on Substack at ["**Joe's Second Boot**"](https://joebelli.substack.com/) 
-- 🦋 Come and Follow Me on [**Bluesky**](https://bsky.app/profile/atlantajoe.bsky.social)
+- 📚 Check out my writing on Substack at ["**Joe Belli**"](https://joebelli.substack.com/) 
 - 🌐 Come and Follow Me on [**LinkedIn**](https://www.linkedin.com/in/joe-belli-472290370/)
-- 🦣 Come and Follow Me on [**Mastodon**](https://techhub.social/@atlantajoe)
+- 🧑‍💼 And of course here on [**GitHub**](https://github.com/atlantajoe) 
+
+
 
